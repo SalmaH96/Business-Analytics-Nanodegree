@@ -188,11 +188,11 @@ Query 5 - Used to get which agent has the most sales
 ```
 
 
-### [You can download it here] (https://github.com/SalmaH96/Business-Analytics-Nanodegree/blob/main/Music%20Store.txt)
+### [You can download it here :) ](https://github.com/SalmaH96/Business-Analytics-Nanodegree/blob/main/Music%20Store.txt)
 
 ### **Third Project -- Data Visualization**
 
-## [Data Visualization]
+## Data Visualization
 
 This section takes data visualizations to another level. Use Tableau to analyze and visualize large data sets, and create informative and dynamic data dashboards. This section makes it easier to visualize large data sets in a more readable form in order to present insights to all business areas.
 
