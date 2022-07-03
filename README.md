@@ -220,7 +220,7 @@ The file you must use in creating your data visualizations is the flights.csv fi
 ![image](https://github.com/SalmaH96/Business-Analytics-Nanodegree/blob/main/Screen%20Recording%202022-07-03%20at%2006.03.13.38%20PM.gif)
 
 
-**[Link to Tableau public](https://public.tableau.com/app/profile/salma.hussien/viz/FlightsProject_16568617704780/Dashboard2-Routeswithmostflights)**
+**[Link to Tableau public 🤩 ](https://public.tableau.com/app/profile/salma.hussien/viz/FlightsProject_16568617704780/Dashboard2-Routeswithmostflights)**
 
 
 **[You can also download it here](https://github.com/SalmaH96/Business-Analytics-Nanodegree/blob/main/Flights%20Project.twbx)** :star:
