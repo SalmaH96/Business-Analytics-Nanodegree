@@ -54,7 +54,7 @@ For the final project, you will conduct three tasks:
 ![image](https://github.com/SalmaH96/Business-Analytics-Nanodegree/blob/main/Screen%20Recording%202022-07-03%20at%2001.08.11.77%20PM.gif)
 
 
-## **You can download the project  [here](https://github.com/salma9296/Business-Analytics-Nanodegree/blob/main/New%20York%20Stock.xlsx) :star:**
+## **You can download the project  [here](https://github.com/SalmaH96/Business-Analytics-Nanodegree/blob/main/New%20York%20Stock.xlsx) :star:**
 
 **Second Project -- Query Music Store**
 
