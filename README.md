@@ -8,7 +8,7 @@ I have always been so passionate about data and how useful it can be if it is an
 The main goals of this nanodegree are; analyzing data using Excel, query a database using SQL and building an interactive dashboards and data visualizations using Tableau. You can check the course syllabus [here](https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/Business+Analytics+Nanodegree+Program+Syllabus+2.0.pdf).
 
 
-### **First Project -- Analyze NYSE Data**
+### ** 🎯 First Project -- Analyze NYSE Data**
 
 ## Analyze NYSE Data
 
@@ -56,7 +56,7 @@ For the final project, you will conduct three tasks:
 
 ## **You can download the project  [here](https://github.com/SalmaH96/Business-Analytics-Nanodegree/blob/main/New%20York%20Stock.xlsx) :star:**
 
-### **Second Project -- SQL Query Music Store**
+### ** 🎯 Second Project -- SQL Query Music Store**
 
 ## SQL For Data Analysis
 
@@ -190,7 +190,7 @@ Query 5 - Used to get which agent has the most sales
 
 ### [You can download it here :) ](https://github.com/SalmaH96/Business-Analytics-Nanodegree/blob/main/Music%20Store.txt)
 
-### **Third Project -- Data Visualization**
+### ** 🎯 Third Project -- Data Visualization**
 
 ## Data Visualization
 
