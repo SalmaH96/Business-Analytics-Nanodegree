@@ -8,7 +8,7 @@ I have always been so passionate about data and how useful it can be if it is an
 The main goals of this nanodegree are; analyzing data using Excel, query a database using SQL and building an interactive dashboards and data visualizations using Tableau. You can check the course syllabus [here](https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/Business+Analytics+Nanodegree+Program+Syllabus+2.0.pdf).
 
 
-**First Project -- Analyze NYSE Data**
+### **First Project -- Analyze NYSE Data**
 
 ## Analyze NYSE Data
 
@@ -56,7 +56,7 @@ For the final project, you will conduct three tasks:
 
 ## **You can download the project  [here](https://github.com/SalmaH96/Business-Analytics-Nanodegree/blob/main/New%20York%20Stock.xlsx) :star:**
 
-**Second Project -- Query Music Store**
+### **Second Project -- SQL Query Music Store**
 
 ## SQL For Data Analysis
 
@@ -65,7 +65,7 @@ In this project, you will query the Chinook Database. The Chinook Database holds
  ![image](https://github.com/SalmaH96/Business-Analytics-Nanodegree/blob/main/001.png)
 
 
-## Queries I used for my Project:
+## Queries I used:
 
 Query 1 - Used to get the sale per unit per genre and percentage of sale. Limited to top 10.
 ```
@@ -190,7 +190,7 @@ Query 5 - Used to get which agent has the most sales
 
 ### [You can download it here] (https://github.com/SalmaH96/Business-Analytics-Nanodegree/blob/main/Music%20Store.txt)
 
-**Third Project -- Data Visualization**
+### **Third Project -- Data Visualization**
 
 ## [Data Visualization]
 
@@ -200,7 +200,7 @@ This section takes data visualizations to another level. Use Tableau to analyze 
 
 In this project, you'll create visualizations to reveal insights from a data set. You will create data visualizations that tell a story or highlight patterns in the data set. Your work should be a reflection of the theory and practice of data visualization, such as visual encodings, design principles, and effective communication.
 
-**1) Flight Delays and Cancellations**
+**Flight Delays and Cancellations**
 
 This data comes from a Kaggle dataset, it tracks the on-time performance of US domestic flights operated by large air carriers in 2015. You can find the dataset in supporting materials at the bottom of this page.
 
@@ -208,15 +208,15 @@ The file you must use in creating your data visualizations is the flights.csv fi
 
 # My Project
 
-### Dashboard 1
+## Dashboard 1
 ![image](https://github.com/SalmaH96/Business-Analytics-Nanodegree/blob/main/Screen%20Recording%202022-07-03%20at%2005.56.10.94%20PM.gif)
 
 
-### Dashboard 2
+## Dashboard 2
 ![image](https://github.com/SalmaH96/Business-Analytics-Nanodegree/blob/main/Screen%20Recording%202022-07-03%20at%2005.59.36.95%20PM.gif)
 
 
-### Dashboard 3
+## Dashboard 3
 ![image](https://github.com/SalmaH96/Business-Analytics-Nanodegree/blob/main/Screen%20Recording%202022-07-03%20at%2006.03.13.38%20PM.gif)
 
 
