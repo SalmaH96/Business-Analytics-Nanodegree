@@ -51,7 +51,7 @@ For the final project, you will conduct three tasks:
 ![image](https://github.com/SalmaH96/Business-Analytics-Nanodegree/blob/main/Screen%20Recording%202022-07-03%20at%2012.55.00.08%20PM.gif)
 
 ## Dynamic P&L Statement
-![image](https://github.com/SalmaH96/Business-Analytics-Nanodegree/commit/1e86c54241bb568ce3fd154325fcb5fb32d82d75)
+![image](https://github.com/SalmaH96/Business-Analytics-Nanodegree/blob/main/Screen%20Recording%202022-07-03%20at%2001.08.11.77%20PM.gif)
 
 
 ## **You can download the project  [here](https://github.com/salma9296/Business-Analytics-Nanodegree/blob/main/New%20York%20Stock.xlsx) :star:**
