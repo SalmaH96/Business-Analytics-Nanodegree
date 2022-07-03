@@ -48,10 +48,10 @@ For the final project, you will conduct three tasks:
   
 
 ## Dynamic Financial Forecast with three scenarios
-![image](https://github.com/salma9296/Business-Analytics-Nanodegree/blob/main/Screen%20Recording%202022-07-03%20at%2012.55.00.08%20PM.gif)
+![image](https://github.com/SalmaH96/Business-Analytics-Nanodegree/blob/main/Screen%20Recording%202022-07-03%20at%2012.55.00.08%20PM.gif)
 
 ## Dynamic P&L Statement
-![image](https://github.com/salma9296/Business-Analytics-Nanodegree/blob/main/Screen%20Recording%202022-07-03%20at%2001.08.11.77%20PM.gif)
+![image](https://github.com/SalmaH96/Business-Analytics-Nanodegree/commit/1e86c54241bb568ce3fd154325fcb5fb32d82d75)
 
 
 ## **You can download the project  [here](https://github.com/salma9296/Business-Analytics-Nanodegree/blob/main/New%20York%20Stock.xlsx) :star:**
@@ -62,11 +62,8 @@ For the final project, you will conduct three tasks:
 
 In this project, you will query the Chinook Database. The Chinook Database holds information about a music store. For this project, you will be assisting the Chinook team with understanding the media in their store, their customers and employees, and their invoice information. To assist you in the queries ahead, the schema for the Chinook Database is provided below. You can see the columns that link tables together via the arrows.
 
- image X
- 
- # My Project
+ ![image](https://github.com/SalmaH96/Business-Analytics-Nanodegree/blob/main/001.png)
 
- image X
 
 ## Queries I used for my Project:
 
@@ -191,8 +188,7 @@ Query 5 - Used to get which agent has the most sales
 ```
 
 
-
-### [Download my code and slides here]
+### [You can download it here] (https://github.com/SalmaH96/Business-Analytics-Nanodegree/blob/main/Music%20Store.txt)
 
 **Third Project -- Data Visualization**
 
@@ -213,35 +209,21 @@ The file you must use in creating your data visualizations is the flights.csv fi
 # My Project
 
 ### Dashboard 1
-![image](./Misc/001.png)
+![image](https://github.com/SalmaH96/Business-Analytics-Nanodegree/blob/main/Screen%20Recording%202022-07-03%20at%2005.56.10.94%20PM.gif)
 
-![image](./Misc/001.gif)
 
 ### Dashboard 2
-![image](./Misc/002.png)
+![image](https://github.com/SalmaH96/Business-Analytics-Nanodegree/blob/main/Screen%20Recording%202022-07-03%20at%2005.59.36.95%20PM.gif)
 
-![image](./Misc/002.gif)
 
 ### Dashboard 3
-![image](./Misc/003.png)
+![image](https://github.com/SalmaH96/Business-Analytics-Nanodegree/blob/main/Screen%20Recording%202022-07-03%20at%2006.03.13.38%20PM.gif)
 
-![image](./Misc/003.gif)
 
-### Dashboard 4
-![image](./Misc/004.png)
+**[Link to Tableau public](https://public.tableau.com/app/profile/salma.hussien/viz/FlightsProject_16568617704780/Dashboard2-Routeswithmostflights)**
 
-![image](./Misc/004.gif)
 
-### Dashboard 5
-![image](./Misc/005.png)
-
-![image](./Misc/005.gif)
-
-**[Link to Tableau public gallery](https://public.tableau.com/profile/mark.soro#!/vizhome/BuildDataaDashboardfromBANDUdacityProjectFlightData/Dashboard1-Originairportscancellationreasons)**
-
-**[Project Report](./Misc/flight-delays/project_report.pdf)**
-
-**[Download here](https://github.com/m-soro/Business-Analytics/tree/main/Data-Visualization/L5-Project-Build-Data-Dashboard/Misc/flight-delays)** :rocket:
+**[You can also download it here](https://github.com/SalmaH96/Business-Analytics-Nanodegree/blob/main/Flights%20Project.twbx)** :star:
 
 
 
