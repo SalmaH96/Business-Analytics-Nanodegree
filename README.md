@@ -225,5 +225,6 @@ The file you must use in creating your data visualizations is the flights.csv fi
 
 **[You can also download it here](https://github.com/SalmaH96/Business-Analytics-Nanodegree/blob/main/Flights%20Project.twbx)** :star:
 
+**[Link to my newest visualization here in Tableau public 🤩 ](https://public.tableau.com/app/profile/salma.hussien/viz/Salesdata_16594536431940/Dashboard-LeadAnalysis)**
 
 
